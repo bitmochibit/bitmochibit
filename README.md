@@ -1,13 +1,10 @@
-<style>
-    p {
+<p style="
         font-size: 16px;
         line-height: 1.5;
         padding: 10px;
-        border-radius: 8px; 
-    }
-</style>
-
-<p style="color: white; background-color: black;"> 
+        border-radius: 8px;
+        color: white;
+        background-color: black;"> 
     This works?????
 </p>
 
