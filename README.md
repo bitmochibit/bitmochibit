@@ -82,8 +82,8 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=96FF67"  />
-</div>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=bitmochibit&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Leonardo Importuna contribution Space Shooter" />
+</p>
 
 ###
