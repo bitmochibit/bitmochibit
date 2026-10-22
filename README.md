@@ -1,12 +1,16 @@
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=Hi!%20I'm%20Leonardo%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"   alt=""/>
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=bitmochibit&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39531150%3Fu%3D0e4484bad725f2d071c531bcc54c8faf5969bf6a%26v%3D4" alt="bitmochibit hero visual" />
+</p>
 
 ###
 
 <h4 align="center">I'm obsessed with Kotlin and Minecraft</h4>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=bitmochibit&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39531150%3Fu%3D0e4484bad725f2d071c531bcc54c8faf5969bf6a%26v%3D4" alt="bitmochibit projects visual" />
+</p>
 
 ###
 
